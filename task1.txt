@@ -1,0 +1,4 @@
+search how to make a button?
+<button type="button">submit</button>
+or
+<input type="submit" value="Submit">
