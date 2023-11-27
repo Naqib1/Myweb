@@ -1,0 +1,21 @@
+body{
+    display: flex;
+}
+.First{
+    border:solid;
+    background-color:gainsboro;
+    margin: 15px;
+    padding: 5px;
+}
+.First,img{
+    display: block;
+    margin:auto;
+}
+.sec{
+    border:solid;
+    background-image: url(img/2.PNG);
+    background-size: cover;
+    border-radius: 5px;
+    margin: 15px;
+    padding: 5px;
+}
